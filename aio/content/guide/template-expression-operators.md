@@ -1,6 +1,6 @@
 # Template expression operators
 
-<div class="callout is-critical">
+<div class=" is-critical">
 
 <header>Marked for archiving</header>
 
